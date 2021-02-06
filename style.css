@@ -1,0 +1,39 @@
+@media only screen and (min-width: 1200px) {
+  .ui.container {
+    width: 933px
+  }
+}
+
+#menu {
+  margin: 1.5em 0em
+}
+
+#content {
+  margin: 1.5em 1em
+}
+
+.title {
+  margin-bottom: 20px;
+  text-align: center
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal
+}
+
+img {
+  width: 75%;
+  display: block;
+  margin: 0 auto
+}
+
+html, body {
+  font-size: 16px
+}
+
+#footer {
+  padding: 0.5em 0;
+  margin-top: 1.5em;
+  color: #777;
+  border-top: 1px solid #ddd;
+}
